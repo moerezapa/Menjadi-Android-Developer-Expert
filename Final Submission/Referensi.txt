@@ -1,0 +1,12 @@
+https://github.com/aditnanda/ContentProviderWithRoomDatabase
+
+https://github.com/omrobbie/CatalogueMovie
+
+https://github.com/DhytoDev/catalogue-movie-dicoding-MADE
+
+https://github.com/NurisDev/CatalogMovie
+
+/*
+        Referensi get room db to widget
+        https://github.com/DeFBeD/LifeNotes/blob/master/app/src/main/java/com/example/jburgos/life_notes/widget/WidgetService.java
+     */
